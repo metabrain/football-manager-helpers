@@ -4,12 +4,12 @@ Concentrated digest of random FM(20) tidbits
 ## Personalities
 
 ### "BUY BUY BUY" aka The-Harry-Kane-tier
-Model Citizen: Determination > 17 & Ambition > 17 & Loyalty > 17 & Pressure > 17 & Professionalism > 17 & Temperament > 17 & Sportsmanship > 17.
-Model Professional: Professionalism = 20 & Temperament > 9.
-Leader: (Influence = 19) or (Influence = 20 & Determination < 20).
-Born Leader: Influence = 20 & Determination = 20.
-Perfectionist: Ambition > 17 & Professionalism > 17 & Determination > 17.
-Professional: Professionalism = 18-19 & Temperament > 9.
+- Model Citizen: Determination > 17 & Ambition > 17 & Loyalty > 17 & Pressure > 17 & Professionalism > 17 & Temperament > 17 & Sportsmanship > 17.
+- Model Professional: Professionalism = 20 & Temperament > 9.
+- Leader: (Influence = 19) or (Influence = 20 & Determination < 20).
+- Born Leader: Influence = 20 & Determination = 20.
+- Perfectionist: Ambition > 17 & Professionalism > 17 & Determination > 17.
+- Professional: Professionalism = 18-19 & Temperament > 9.
 
 ### "Good" tier
 Spirited: Pressure > 14 & Professionalism = 15-17 & Temperament > 9.
@@ -49,3 +49,10 @@ Unsporting: Sportsmanship = 1.
 Slack: Professionalism = 1 & Determination < 10.
 Spineless: Pressure = 1 & Determination < 10.
 Realist: Sportsmanship = 2-4.
+
+
+|               | Determination | Ambition | Loyalty | Pressure | Professionalism | Temperament | Sportsmanship |
+|---------------|---------------|----------|---------|----------|-----------------|-------------|---------------|
+| Model Citizen | > 17          | > 17     | > 17    | > 17     |                 |             |               |
+|               |               |          |         |          |                 |             |               |
+|               |               |          |         |          |                 |             |               |
