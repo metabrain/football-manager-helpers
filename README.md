@@ -2,7 +2,7 @@
 Concentrated digest of random FM(20) tidbits
 
 ## Personalities
-## *"BUY BUY BUY" / HARRY KANE TIER*
+#### *"BUY BUY BUY" / HARRY KANE TIER*
 
 |  | Determination | Influence | Ambition | Loyalty | Pressure | Professionalism | Temperament | Sportsmanship |
 |-|-|-|-|-|-|-|-|-|
@@ -14,7 +14,7 @@ Concentrated digest of random FM(20) tidbits
 | Perfectionist | > 17 |  | > 17 |  |  | > 17 |  |  |
 | Professional |  |  |  |  |  | 18-19 | > 9 |  |
 
-## *GOOD TIER*
+#### *GOOD TIER*
 
 |  | Determination | Influence | Ambition | Loyalty | Pressure | Professionalism | Temperament | Sportsmanship |
 |-|-|-|-|-|-|-|-|-|
@@ -32,7 +32,7 @@ Concentrated digest of random FM(20) tidbits
 | Fairly Ambitious |  |  | 15 |  |  |  |  |  |
 | Fairly Ambitious |  |  | > 15 | > 9 |  |  |  |  |
 
-## *MEH.. TIER*
+#### *MEH.. TIER*
 
 |  | Determination | Influence | Ambition | Loyalty | Pressure | Professionalism | Temperament | Sportsmanship |
 |-|-|-|-|-|-|-|-|-|
@@ -49,7 +49,7 @@ Concentrated digest of random FM(20) tidbits
 | Fairly Loyal |  |  | 8-14 | 18-20 |  |  |  |  |
 | Sporting |  |  |  |  |  |  |  | 18-20 |
 
-## *TRASH TIER*
+#### *TRASH TIER*
 
 |  | Determination | Influence | Ambition | Loyalty | Pressure | Professionalism | Temperament | Sportsmanship |
 |-|-|-|-|-|-|-|-|-|
