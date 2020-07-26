@@ -1,6 +1,12 @@
 # football-manager-helpers
 Concentrated digest of random FM(20) tidbits
 
+## Tidbits of knowledge + sources
+
+### Attributes / CA / PA
+
+* *Natural Fitness* can change in younger players, and is NOT count towards against the CA. https://community.sigames.com/topic/397397-will-a-youngsters-natural-fitness-attribute-improve/ 
+
 ## Personalities
 #### *"BUY BUY BUY" / HARRY KANE TIER*
 
