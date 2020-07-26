@@ -5,7 +5,7 @@ Concentrated digest of random FM(20) tidbits
 
 ### Attributes / CA / PA
 
-* *Natural Fitness* can change in younger players, and is NOT count towards against the CA. https://community.sigames.com/topic/397397-will-a-youngsters-natural-fitness-attribute-improve/ 
+* *Natural Fitness* can change in younger players, and is NOT count towards against the CA. https://community.sigames.com/topic/397397-will-a-youngsters-natural-fitness-attribute-improve/?do=findComment&comment=10689544
 
 ## Personalities
 #### *"BUY BUY BUY" / HARRY KANE TIER*
